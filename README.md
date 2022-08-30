@@ -11,9 +11,11 @@ I'm proficient in HTML, CSS, JavaScript and Python.
 
 ### Connect with me:
 [![website](/icons/twitter-light.svg)](https://twitter.com/mohshops#gh-light-mode-only)
+[![website](/icons/twitter-dark.svg)](https://twitter.com/mohshops#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](/icons/linkedin-light.svg)](https://www.linkedin.com/in/mosopeOwo/#gh-light-mode-only)
-
+[![website](/icons/linkedin-dark.svg)](https://www.linkedin.com/in/mosopeOwo/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages and tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
