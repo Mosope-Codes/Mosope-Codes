@@ -2,8 +2,8 @@
 
 ### About me
 I'm a Mathematics Student at the University of Lagos.
-I'm a passionate learner and a dedicated hardworker. I'm a creative and curious problem solver and I am more of an 'under the hood guy'. I love to continue to learn and build sustainable solutions.
-I'm proficient in HTML, CSS, JavaScript and Python. 
+I'm a passionate learner and a dedicated hardworker. I'm a creative and curious problem solver and I am more of an 'under the hood guy'; Backend Software Engineer😎. I love to continue to learn and build sustainable solutions.
+I'm proficient in HTML, CSS, JavaScript, Python and Java. 
 
 ### Python Projects I worked on
 [Django Todo List App](https://todolistify.herokuapp.com/)
