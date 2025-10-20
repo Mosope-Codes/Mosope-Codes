@@ -1,22 +1,32 @@
 ### Hey, I'm Mosope Owolabi 👋
 
 ### About me
-I'm a Mathematics Student at the University of Lagos.
-I'm a passionate learner and a dedicated hardworker. I'm a creative and curious problem solver and I am more of an 'under the hood guy'; Backend Software Engineer😎. I love to continue to learn and build sustainable solutions.
-I'm proficient in HTML, CSS, JavaScript, Python and Java. 
+I am a Backend Engineer with hands-on experience in designing and building scalable applications using Python, Java, 
+JavaScript, Spring Boot, Node.js, and .NET. Skilled in developing REST APIs, implementing authentication, and managing 
+relational and NoSQL databases. Strong foundation in HTML and CSS for front-end integration. Proficient in applying Object Oriented Programming (OOP) principles and Agile practices. Adept at quickly learning new technologies and applying them to 
+solve real-world problems.
+I am also First class Graduate of the Department of Mathematics at the University of Lagos, Nigeria.
+
 
 ### Python Projects I worked on
-[Django Todo List App](https://todolistify.herokuapp.com/)
+[NumPy-Matrix](https://github.com/Mosope-Codes/numPy-matrix-analysis.git)
 <br>
 [URL Shortner](https://urlshortnerily.herokuapp.com/)
+<br>
+[Django Todo List App](https://todolistify.herokuapp.com/)
 
 ### Node.js Projects I worked on
 [Todo List App](https://todo-app-wcsj.onrender.com)
 
+### Java Projects I worked on
+[Blog App API](https://github.com/Mosope-Codes/blog_app_api.git)
+<br>
+[Express Tracker API](https://github.com/Mosope-Codes/express_tracker_api.git)
 
 ### Key Highlights😊
-- 👯 I’m looking to intern as a Back-end Developer 
+- I'm very skilled at quickly learning new technologies and applying them to solve real-world problems. 
 
+- I'm currently seeking Java Backend Engineering roles where I can contribute to impactful projects.
 
 ### Connect with me:
 [![website](/icons/twitter-light.svg)](https://twitter.com/mohshops#gh-light-mode-only)
@@ -27,6 +37,8 @@ I'm proficient in HTML, CSS, JavaScript, Python and Java.
 &nbsp;&nbsp;
 
 ### Languages and tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
