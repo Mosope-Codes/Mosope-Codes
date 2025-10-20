@@ -1,4 +1,4 @@
-### Hey, I'm Mosope Owolabi 👋
+### Hey, I'm Mosopefoluwa Owolabi 👋
 
 ### About me
 I am a Backend Engineer with hands-on experience in designing and building scalable applications using Python, Java, 
