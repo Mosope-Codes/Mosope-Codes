@@ -19,9 +19,13 @@ I am also First class Graduate of the Department of Mathematics at the Universit
 [Todo List App](https://todo-app-wcsj.onrender.com)
 
 ### Java Projects I worked on
-[Blog App API](https://github.com/Mosope-Codes/blog_app_api.git)
+[Crypto-Matrix API](https://github.com/Mosope-Codes/crypto_matrix.git)
 <br>
-[Express Tracker API](https://github.com/Mosope-Codes/express_tracker_api.git)
+[Express Tracker API](https://github.com/Mosope-Codes/expense_tracker_api.git)
+<br>
+[Blog App API](https://github.com/Mosope-Codes/blog_app_api.git)
+
+
 
 ### Key Highlights😊
 - I'm very skilled at quickly learning new technologies and applying them to solve real-world problems. 
