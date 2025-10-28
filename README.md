@@ -19,7 +19,7 @@ I am also First class Graduate of the Department of Mathematics at the Universit
 [Todo List App](https://todo-app-wcsj.onrender.com)
 
 ### Java Projects I worked on
-[Event Ticketing App](https://github.com/Mosope-Codes/eventTicketingApp.git)
+[Event Ticketing API](https://github.com/Mosope-Codes/eventTicketingApp.git)
 <br>
 [Crypto-Matrix API](https://github.com/Mosope-Codes/crypto_matrix.git)
 <br>
